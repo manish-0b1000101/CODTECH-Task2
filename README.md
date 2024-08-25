@@ -1,9 +1,16 @@
-# CODTECH-Task2
+**Name:**                     \
+**Company:**                  \
+**ID:**                       \
+**Domain:**                   \
+**Duration:**                 \
+**Mentor:**  
 
-
+---
 
 **Project Overview**
-A weather appp that takes city, country to display weather of the city. It is build using HTML, CSS and Javascript.
+
+A weather app that takes city, country to display weather of the city. It is build using HTML, CSS and Javascript.
+The project uses weather api to fetch realtime weather details to the weather details on a responsive web page.
 
 ---
 
