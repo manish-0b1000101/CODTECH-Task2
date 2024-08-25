@@ -2,6 +2,9 @@
 
 
 
+**Project Overview**
+A weather appp that takes city, country to display weather of the city. It is build using HTML, CSS and Javascript.
+
 ---
 
 ### Project Screenshots
